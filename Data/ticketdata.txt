@@ -1,0 +1,20 @@
+Username: Sajib
+Tickets Booked: 3
+Travel Date: 7 April
+Total Cost: 600 BDT
+---------------------------------------
+Username: Sajib
+Tickets Booked: 3
+Travel Date: 5 March
+Total Cost: 600 BDT
+---------------------------------------
+Username: Sajib
+Tickets Booked: 6
+Travel Date: 4 July
+Total Cost: 6000 BDT
+---------------------------------------
+Username: Sajib
+Tickets Booked: 3
+Travel Date: 3 March
+Total Cost: 3000 BDT
+---------------------------------------
